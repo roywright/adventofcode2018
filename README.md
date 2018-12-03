@@ -6,6 +6,7 @@ Elegance and explanatory comments are minimal, as I write my code as fast as pos
 
 <pre>      <span>-------Part 1--------</span>   <span>-------Part 2--------</span>
 Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span>
+  3   00:08:19   186      0   00:25:10   764      0
   2   00:03:20    87     14   00:07:44    99      2
   1   00:42:28  2075      0   00:56:22  1584      0
 </pre>
