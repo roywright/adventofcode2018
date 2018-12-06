@@ -2,10 +2,11 @@
 ## (and other 2018 puzzles)
 http://adventofcode.com/2018
 
-Elegance and explanatory comments are minimal, as I write my code as fast as possible, in the spirit of competition. But I will often not have a chance to sit down and start a puzzle for a while &mdash; maybe even the next day.
+Elegance and explanatory comments are minimal, as I write my code as fast as possible, in the spirit of competition. But unfortunately, I will sometime not have a chance to sit down and start a puzzle on time.
 
 <pre>      <span>-------Part 1--------</span>   <span>-------Part 2--------</span>
 Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <span> Comment </span>
+  6   00:26:06   238      0   --------   ---      -  There was [a bug in Part 2](https://twitter.com/ericwastl/status/1070563771339411457).
   5   00:49:49  2489      0   01:18:10  2575      0  Got a late start.
   4   00:32:44   506      0   00:34:24   375      0
   3   00:08:19   186      0   00:25:10   764      0
