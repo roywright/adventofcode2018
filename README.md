@@ -6,6 +6,7 @@ Elegance and explanatory comments are minimal, as I write my code as fast as pos
 
 <pre>      <span>-------Part 1--------</span>   <span>-------Part 2--------</span>
 Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <span>   Comments </span>
+  8   02:42:33  2404      0   03:12:42  2310      0    
   7   00:22:10   541      0   01:26:21   945      0  
   6   00:26:06   238      0   XXXXXXXX   XXX      X    There was a <a href = "https://twitter.com/ericwastl/status/1070563771339411457">bug in Part 2</a>.
   5   00:49:49  2489      0   01:18:10  2575      0    Got a late start.
