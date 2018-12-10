@@ -14,7 +14,8 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
   6   00:26:06   238      0   XXXXXXXX   XXX      X    There was a <a href = "https://twitter.com/ericwastl/status/1070563771339411457">bug in Part 2</a>.
   7   00:22:10   541      0   01:26:21   945      0  
   8   02:42:33  2404      0   03:12:42  2310      0    
-  9   12:32:45  6079      0   12:48:15  4911      0    Delayed until the next day by a stomach bug 🤢
+  9   12:32:45  6079      0   12:48:15  4911      0    Delayed until next day by a stomach bug 🤢
+ 10   00:23:58   278      0   00:24:18   250      0
 </pre>
 
 Also in this repository are solutions to some other interesting puzzles I saw online earlier in 2018.
