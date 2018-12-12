@@ -17,6 +17,7 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
   9   12:32:45  6079      0   12:48:15  4911      0    Delayed until next day by a stomach bug 🤢
  10   00:23:58   278      0   00:24:18   250      0
  11   00:08:52   166      0   00:57:22  1073      0
+ 12   00:25:02   343      0   01:15:42   750      0
 </pre>
 
 Also in this repository are solutions to some other interesting puzzles I saw online earlier in 2018.
