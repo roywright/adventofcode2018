@@ -19,7 +19,6 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
  11   00:08:52   166      0   00:57:22  1073      0
  12   00:25:02   343      0   01:15:42   750      0
  13   00:44:32   255      0   01:08:00   333      0
-=======
 </pre>
 
 Also in this repository are solutions to some other interesting puzzles I saw online earlier in 2018.
