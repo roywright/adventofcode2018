@@ -18,7 +18,10 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
  10   00:23:58   278      0   00:24:18   250      0
  11   00:08:52   166      0   00:57:22  1073      0
  12   00:25:02   343      0   01:15:42   750      0
+<<<<<<< HEAD
  13   00:44:32   255      0   01:08:00   333      0
+=======
+>>>>>>> 2296bfa260746a1b2cd870ce5e2d423554606e17
 </pre>
 
 Also in this repository are solutions to some other interesting puzzles I saw online earlier in 2018.
