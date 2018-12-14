@@ -1,8 +1,12 @@
 # Advent of Code 2018
 ## (and other 2018 puzzles)
-http://adventofcode.com/2018
 
-Elegance and explanatory comments are minimal, as I write my code as fast as possible in the spirit of competition. But unfortunately, I will not always have a chance to sit down and start a puzzle right on time.
+From time to time throughout 2018, I've come across puzzles that I thought would be interesting to solve via programming. My explorations of some of these puzzles can be found here, in `puzzles.ipynb`.
+
+Of course, the main contents of this repository are my solutions to [this year's Advent of Code](http://adventofcode.com/2018), in the file `advent.ipynb`. Elegance and explanatory comments are minimal, as I write my solutions as fast as possible in the spirit of competition. But unfortunately, I will not always have a chance to sit down and start a puzzle right on time.
+
+
+### Personal stats
 
 <pre>      <span>-------Part 1--------</span>   <span>-------Part 2--------</span>
 Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <span>   Comments </span>
@@ -19,6 +23,6 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
  11   00:08:52   166      0   00:57:22  1073      0
  12   00:25:02   343      0   01:15:42   750      0
  13   00:44:32   255      0   01:08:00   333      0
+ 14   00:29:50   834      0   00:40:39   504      0
 </pre>
 
-Also in this repository are solutions to some other interesting puzzles I saw online earlier in 2018.
