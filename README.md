@@ -18,11 +18,13 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
   6   00:26:06   238      0   XXXXXXXX   XXX      X    There was a <a href = "https://twitter.com/ericwastl/status/1070563771339411457">bug in Part 2</a>.
   7   00:22:10   541      0   01:26:21   945      0  
   8   02:42:33  2404      0   03:12:42  2310      0    
-  9   12:32:45  6079      0   12:48:15  4911      0    Delayed until next day by a stomach bug 🤢
+  9   12:32:45  6079      0   12:48:15  4911      0    Delayed until next day by a stomach bug. 🤢
  10   00:23:58   278      0   00:24:18   250      0
  11   00:08:52   166      0   00:57:22  1073      0
  12   00:25:02   343      0   01:15:42   750      0
  13   00:44:32   255      0   01:08:00   333      0
  14   00:29:50   834      0   00:40:39   504      0
+ 15   23:28:43  2041      0   23:54:02  1875      0    Total re-write was needed (see comment in notebook).
+ 16   00:28:57   200      0   00:41:35   120      0
 </pre>
 
