@@ -26,5 +26,6 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
  14   00:29:50   834      0   00:40:39   504      0
  15   23:28:43  2041      0   23:54:02  1875      0    Total re-write was needed (see comment in notebook).
  16   00:28:57   200      0   00:41:35   120      0
+ 17   09:54:33  1185      0   09:55:09  1164      0    Delayed until morning.
 </pre>
 
