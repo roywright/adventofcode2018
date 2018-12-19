@@ -28,5 +28,6 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
  16   00:28:57   200      0   00:41:35   120      0
  17   09:54:33  1185      0   09:55:09  1164      0    Delayed until morning.
  18   00:17:11   224      0   00:21:10    88     13 
+ 19   00:20:22   271      0          -     -      -     
 </pre>
 
