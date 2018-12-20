@@ -26,14 +26,15 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
  14   00:29:50   834      0   00:40:39   504      0
  15   23:28:43  2041      0   23:54:02  1875      0    Total re-write was needed (see comment in notebook).
  16   00:28:57   200      0   00:41:35   120      0
- 17   09:54:33  1185      0   09:55:09  1164      0    Delayed until morning.
+ 17   09:54:33  1185      0   09:55:09  1164      0    Had to be delayed until morning.
  18   00:17:11   224      0   00:21:10    88     13 
  19   00:20:22   271      0   09:31:00  1485      0     
- 20   --:--:--  ----      0   --:--:--  ----      0    
+ 20   11:39:39  1393      0   11:45:06  1297      0    
+--------------------------------------------------------------------------------------------------------------- 
  21
  22                                                    I am travelling and vacationing for 
  23                                                    the rest of the year, so it's unclear
- 24                                                    when I'll complete the rest of these.
+ 24                                                    when I'll complete Days 21-25.
  25
 </pre>
 
