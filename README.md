@@ -29,5 +29,11 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
  17   09:54:33  1185      0   09:55:09  1164      0    Delayed until morning.
  18   00:17:11   224      0   00:21:10    88     13 
  19   00:20:22   271      0   09:31:00  1485      0     
+ 20   --:--:--  ----      0   --:--:--  ----      0    
+ 21
+ 22                                                    I am travelling and vacationing for 
+ 23                                                    the rest of the year, so it's unclear
+ 24                                                    when I'll complete the rest of these.
+ 25
 </pre>
 
