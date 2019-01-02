@@ -34,7 +34,7 @@ Day   <span>    Time  Rank  Score</span>   <span>    Time  Rank  Score</span> <s
  21
  22                                                    I am travelling and vacationing for 
  23                                                    the rest of the year, so it's unclear
- 24                                                    when I'll complete Days 21-25.
+ 24                                                    whether I'll complete Days 21-25.
  25
 </pre>
 
